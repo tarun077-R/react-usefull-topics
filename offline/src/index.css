@@ -1,0 +1,11 @@
+html.light,
+html.light body {
+  background: white;
+  color: black;
+}
+
+html.dark,
+html.dark body {
+  background: black;
+  color: white;
+}
