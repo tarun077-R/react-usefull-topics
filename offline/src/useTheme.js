@@ -4,8 +4,7 @@ const useTheme = () => {
   const [theme, setTheme] = useState("light");
 
   const toggleTheme = () => {
-    setTheme((prevTheme) =>
-      prevTheme === "light" ? "dark" : "light"
+    setTheme((e)=>e === "light" ? "dark" : "light"
     );
   };
 

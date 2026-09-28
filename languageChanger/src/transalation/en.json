@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to our application",
+  "description": "This is a multilingual React application built using React, Context API, and i18next.",
+
+  "heroTitle": "Build Modern Multilingual Applications",
+  "heroDescription": "Create powerful and user-friendly applications that support multiple languages with a simple language switcher."
+}
